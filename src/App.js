@@ -11,7 +11,11 @@ export default function App() {
         </main>
         <footer className="text-center">
           Coded by{" "}
-          <a href="https://github.com/HinaChoudhry" target="_blank">
+          <a
+            href="https://github.com/HinaChoudhry"
+            target="_blank"
+            rel="noreferrer"
+          >
             Hina Choudhry
           </a>
         </footer>
