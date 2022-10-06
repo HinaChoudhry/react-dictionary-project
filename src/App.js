@@ -9,7 +9,12 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">Coded by Hina Choudhry</footer>
+        <footer className="text-center">
+          Coded by{" "}
+          <a href="https://github.com/HinaChoudhry" target="_blank">
+            Hina Choudhry
+          </a>
+        </footer>
       </div>
     </div>
   );
