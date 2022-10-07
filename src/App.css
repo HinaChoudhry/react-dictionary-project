@@ -4,3 +4,8 @@ body {
   background: #dcfcfa50;
   font-family: "Playfair Display", serif;
 }
+
+.App {
+  width: 960px;
+  margin: 0 auto;
+}
